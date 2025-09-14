@@ -12,10 +12,9 @@
 - **Ferramentas:** Git, VS Code, Arduino  
 
 ## 📌 Projetos em Destaque
-- 🔹 [Monitor de temperatura para microcervejaria](link_do_repositorio)  
-- 🔹 [MED-ORG (App de organização médica)](link_do_repositorio)  
-- 🔹 [Algoritmos em Java (estruturas e árvores)](link_do_repositorio)  
+- 🔹 [MED-ORG (App de organização médica)]([link_do_repositorio](https://github.com/matheusarsenal/MED-ORG))  
+- 🔹 [frame work jango (estruturas e árvores)]([link_do_repositorio](https://github.com/DacioSilvaJunior/html-css-study))  
 
 ## 📫 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEULINKAQUI)  
+- 💼 [LinkedIn](www.linkedin.com/in/daciosilva-melojr-684a06211)  
 - ✉️ Email: seuemail@email.com  

@@ -12,7 +12,7 @@
 - **Ferramentas:** Git, VS Code, Arduino  
 
 ## 📌 Projetos em Destaque
-- 🔹 [MED-ORG (App de organização médica)]([https://github.com/matheusarsenal/MED-ORG])  
+- 🔹 [MED-ORG (App de organização médica)][https://github.com/matheusarsenal/MED-ORG] 
 - 🔹 [frame work jango (estruturas e árvores)]([link_do_repositorio](https://github.com/DacioSilvaJunior/html-css-study))  
 
 ## 📫 Contato

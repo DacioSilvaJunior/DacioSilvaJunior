@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Dácio Junior  
 
-<!--
-**DacioSilvaJunior/DacioSilvaJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência da Computação**  
+💻 Interessado em **Análise de Dados, Desenvolvimento Web e Inteligência Artificial**  
+📊 Atualmente estudando **C#, Python e React Native**  
+🍺 Desenvolvendo um projeto de monitoramento de temperatura para microcervejaria (PIBIC)  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- **Linguagens:** Python, Java, C#, JavaScript  
+- **Frameworks:** React Native, Node.js  
+- **Banco de Dados:** Firebase, MySQL  
+- **Ferramentas:** Git, VS Code, Arduino  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em Destaque
+- 🔹 [Monitor de temperatura para microcervejaria](link_do_repositorio)  
+- 🔹 [MED-ORG (App de organização médica)](link_do_repositorio)  
+- 🔹 [Algoritmos em Java (estruturas e árvores)](link_do_repositorio)  
+
+## 📫 Contato
+- 💼 [LinkedIn](https://www.linkedin.com/in/SEULINKAQUI)  
+- ✉️ Email: seuemail@email.com  
